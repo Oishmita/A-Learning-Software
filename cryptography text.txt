@@ -1,0 +1,17 @@
+Meet Cryptography
+A branch of both mathematics and computer science, cryptography is the study and practice of obscuring information
+Illustration of simple encryption.
+
+Cryptography refers almost exclusively to encryption, the process of converting ordinary information (plaintext) into unintelligible gibberish (i.e., ciphertext). Decryption is the reverse, moving from unintelligible ciphertext to plaintext.
+
+A cipher (or cypher) is a pair of algorithms which creates the encryption and the reversing decryption. The detailed operation of a cipher is controlled both by the algorithm and, in each instance, by a key. This is a secret parameter (ideally, known only to the communicants) for a specific message exchange context.
+
+This site aims to provide a practical approach to cryptography. We attempt to provide javascript examples and detailed diagrams where possible, in order to make the learning process much smoother.
+What is there to know?
+
+    Ciphers
+
+    Understand the fine details of a wide range of cryptographic ciphers. Find information on block ciphers, symmetric ciphers, public key encryption, and many more.
+    Cryptanalysis
+
+    Discover how often under public scrutiny, holes are poked and cracks begin to form, in algorithms which were once considered secure.
